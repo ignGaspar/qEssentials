@@ -1,0 +1,10 @@
+dev\orbit\essentials\commandf\Command.class
+dev\orbit\essentials\utils\CC.class
+dev\orbit\essentials\commandf\CommandArgs.class
+dev\orbit\essentials\commandf\CommandFramework.class
+dev\orbit\essentials\commandf\BukkitCommand.class
+dev\orbit\essentials\commandf\BukkitCompleter.class
+dev\orbit\essentials\commandf\Completer.class
+dev\orbit\essentials\commands\HealCommand.class
+dev\orbit\essentials\config\ConfigFile.class
+dev\orbit\essentials\QEssentials.class

@@ -1,0 +1,4 @@
+PREFIX: "&bqEssentials &7|"
+MESSAGES:
+  HEAL-MESSAGE: "%prefix% &9%player% has been healed."
+  NO-PERM: "&cYou no have permissions!"
